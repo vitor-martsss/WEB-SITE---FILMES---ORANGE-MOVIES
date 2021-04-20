@@ -3,6 +3,6 @@ Site de filmes, desenvolvido para um trabalho prático do cursos de Sistemas de 
 
 Código puramente composto de:
 
-Linguagem de marcação (HTML)
-Linguagem de folha de estilos em cascata (CSS)
-Framework Bootstrap (incluindo o JS do própio)
+-Linguagem de marcação (HTML)
+-Linguagem de folha de estilos em cascata (CSS)
+-Framework Bootstrap (incluindo o JS do própio)
